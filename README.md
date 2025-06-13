@@ -97,6 +97,9 @@ data-warehouse-project/
 
 👩‍💻 About Me
 Krimisha Vaghela
+
 Aspiring Data Engineer | Passionate about transforming raw data into business insights
+
 [LinkedIn] [https://www.linkedin.com/in/krimisha-vaghela13/]
+
 [GitHub] [https://github.com/krimisha13/]
