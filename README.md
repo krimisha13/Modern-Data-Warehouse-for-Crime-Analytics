@@ -96,6 +96,7 @@ data-warehouse-project/
 ├── README.md                           # Project overview and guide
 
 👩‍💻 About Me
+
 Krimisha Vaghela
 
 Aspiring Data Engineer | Passionate about transforming raw data into business insights
