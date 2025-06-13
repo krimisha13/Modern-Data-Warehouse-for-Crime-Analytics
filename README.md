@@ -4,6 +4,7 @@ Welcome to the Modern Data Warehouse using Crime Analytics repository! 🚀
 This project showcases a complete data warehousing and analytics solution—from data ingestion to generating actionable insights. Designed as a portfolio project, it demonstrates industry-standard best practices in data engineering and analytics.
 
 🏗️ Data Architecture
+
 This project implements the Medallion Architecture, using Bronze, Silver, and Gold layers:
 
 Bronze Layer: Stores raw data ingested from CSV files (ERP and CRM systems) into SQL Server.
@@ -13,6 +14,7 @@ Silver Layer: Performs data cleansing, transformation, and standardization for a
 Gold Layer: Contains refined, business-ready data modeled into a star schema for reporting and dashboarding.
 
 📖 Project Overview
+
 Key Components:
 Data Architecture: Modern Data Warehouse with Medallion Layering.
 
@@ -23,6 +25,7 @@ Data Modeling: Star schema design with fact and dimension tables.
 Analytics & Reporting: SQL-based insights into customer, product, and sales behavior.
 
 🚀 Project Goals
+
 🧱 Data Warehouse (Data Engineering)
 Objective: Build a scalable warehouse in SQL Server to unify and analyze sales and customer data.
 
@@ -52,6 +55,7 @@ These insights help drive data-driven decision-making for stakeholders.
 📂 Repository Structure
 
 data-warehouse-project/
+
 │
 ├── datasets/                           # Raw ERP and CRM data (CSV)
 │
