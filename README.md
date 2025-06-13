@@ -27,6 +27,7 @@ Analytics & Reporting: SQL-based insights into customer, product, and sales beha
 🚀 Project Goals
 
 🧱 Data Warehouse (Data Engineering)
+
 Objective: Build a scalable warehouse in SQL Server to unify and analyze sales and customer data.
 
 Key Features:
@@ -42,6 +43,7 @@ Key Features:
 📄 Documentation: Well-documented data models for both business and tech teams.
 
 📊 BI & Reporting (Data Analysis)
+
 Objective: Generate insights using SQL queries and dashboards for:
 
 👥 Customer Behavior
@@ -57,23 +59,40 @@ These insights help drive data-driven decision-making for stakeholders.
 data-warehouse-project/
 
 │
+
 ├── datasets/                           # Raw ERP and CRM data (CSV)
+
 │
+
 ├── docs/                               # Documentation and architecture diagrams
+
 │   ├── etl.drawio
+
 │   ├── data_architecture.drawio
+
 │   ├── data_flow.drawio
+
 │   ├── data_models.drawio
+
 │   ├── data_catalog.md                 # Dataset field descriptions & metadata
+
 │   ├── naming-conventions.md           # Naming standards for consistency
+
 │
+
 ├── scripts/                            # SQL scripts for ETL & transformations
+
 │   ├── bronze/                         # Raw data ingestion
+
 │   ├── silver/                         # Data cleaning & transformation
+
 │   ├── gold/                           # Star schema & analytical models
+
 │
 ├── tests/                              # Data validation and test scripts
+
 │
+
 ├── README.md                           # Project overview and guide
 
 👩‍💻 About Me
